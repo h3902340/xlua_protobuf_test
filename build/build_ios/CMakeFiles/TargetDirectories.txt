@@ -1,0 +1,3 @@
+/Users/jiahojian/Desktop/ThirdPartyRepos/build_xlua_with_libs/build/build_ios/CMakeFiles/xlua.dir
+/Users/jiahojian/Desktop/ThirdPartyRepos/build_xlua_with_libs/build/build_ios/CMakeFiles/ALL_BUILD.dir
+/Users/jiahojian/Desktop/ThirdPartyRepos/build_xlua_with_libs/build/build_ios/CMakeFiles/ZERO_CHECK.dir
